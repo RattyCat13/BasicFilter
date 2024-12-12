@@ -15,9 +15,9 @@ Sockets < 2
 Quality < 1
 
 #Accessories
-#Hide
-#Class "Amulet" "Ring" 
-#Rarity Normal
+Hide
+Class "Amulet" "Ring" 
+Rarity Normal
 
 #Flasks
 Hide
@@ -25,9 +25,9 @@ Class "Flask"
 Rarity Normal
 
 #Charms
-#Hide
-#Class "Charm"
-#Rarity Normal
+Hide
+Class "Charm"
+Rarity Normal
 
 ### Magic Rarity Items - This will hide all normal rarity items unless it has 2 sockets or any quality
 
@@ -46,9 +46,9 @@ Sockets < 2
 Quality < 1
 
 #Accessories
-#Hide
-#Class "Amulet" "Ring" 
-#Rarity Magic
+Hide
+Class "Amulet" "Ring" 
+Rarity Magic
 
 #Flasks
 Hide
