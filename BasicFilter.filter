@@ -2,7 +2,7 @@
 
 #Weapons
 Hide
-Class "Bow" "CrossBow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
+Class "Bow" "Crossbow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
 Rarity Normal
 Sockets < 2
 Quality < 1
@@ -33,7 +33,7 @@ Rarity Normal
 
 #Weapons
 Hide
-Class "Bow" "CrossBow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
+Class "Bow" "Crossbow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
 Rarity Magic
 Sockets < 2
 Quality < 1
