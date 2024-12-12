@@ -1,0 +1,72 @@
+### Normal Rarity Items - This will hide all normal rarity items unless it has 2 sockets or any quality
+
+#Weapons
+Hide
+Class "Bow" "CrossBow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
+Rarity Normal
+Sockets < 2
+Quality < 1
+
+#Armour
+Hide
+Class "Armour" "Belt" "Boots"  "Gloves" "Helmet" "Shield" 
+Rarity Normal
+Sockets < 2
+Quality < 1
+
+#Accessories
+#Hide
+#Class "Amulet" "Ring" 
+#Rarity Normal
+
+#Flasks
+Hide
+Class "Flask"
+Rarity Normal
+
+#Charms
+#Hide
+#Class "Charm"
+#Rarity Normal
+
+### Magic Rarity Items - This will hide all normal rarity items unless it has 2 sockets or any quality
+
+#Weapons
+Hide
+Class "Bow" "CrossBow" "Focus" "One Hand Mace" "Sceptre" "Staff" "Two Hand Mace" "QuarterStaff" "Quiver" "Wand"
+Rarity Magic
+Sockets < 2
+Quality < 1
+
+#Armour
+Hide
+Class "Armour" "Belt" "Boots"  "Gloves" "Helmet" "Shield" 
+Rarity Magic
+Sockets < 2
+Quality < 1
+
+#Accessories
+#Hide
+#Class "Amulet" "Ring" 
+#Rarity Magic
+
+#Flasks
+Hide
+Class "Flask"
+Rarity Magic
+
+#Charms
+#Hide
+#Class "Charm"
+#Rarity Magic
+
+### Other Stuff
+
+#Scroll of Wisdoms
+Hide
+BaseType "Scroll of Wisdom"
+
+#Low Quant Gold - These will still be picked up when walking over themm
+Hide
+BaseType == "Gold"
+StackSize <= 99
